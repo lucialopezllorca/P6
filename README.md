@@ -1,2 +1,2 @@
-# P6
+# p6
 practica galeria
